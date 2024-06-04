@@ -4,7 +4,7 @@
 
  About Me
 - 💞 I'm open to collaborating on exciting projects.
-- 📫 You can reach me at https://www.linkedin.com/in/aneesk786/
+- 📫 You can reach me at
 - 💼 Currently open to job opportunities.
 
 - Let's work together to create amazing things and paint our repositories green! 🌿
